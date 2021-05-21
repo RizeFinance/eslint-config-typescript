@@ -31,3 +31,8 @@ Once the `@rizefinance/eslint-config-typescript` package is installed, you can u
 }
 ```
 
+
+
+## New Rule Process
+
+Create a new issue and fillout the template and assign to another developer. We will track their process in github as these are more developer focused tools.
