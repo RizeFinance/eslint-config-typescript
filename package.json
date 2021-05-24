@@ -1,6 +1,6 @@
 {
   "name": "@rizefinance/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RizeFinance eslint config for all typescript projects",
   "main": "index.js",
   "scripts": {
