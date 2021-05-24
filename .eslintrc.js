@@ -5,8 +5,9 @@
 // 'plugin:import/errors'
 // 'plugin:react/recommended'
 
-// Add/Remove Rule
+// Add/Update/Remove Rule
 // "@typescript-eslint/explicit-module-boundary-types": "error"
+// "@typescript-eslint/no-unused-vars": "on",
 
 module.exports = {
   extends: [
@@ -39,7 +40,7 @@ module.exports = {
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/no-explicit-any": "off",
-    "@typescript-eslint/no-unused-vars": "error",
+    "@typescript-eslint/no-unused-vars": "off",
     "@typescript-eslint/consistent-type-definitions": ["warn", "interface"],
     "@typescript-eslint/explicit-module-boundary-types": "off"
   },
